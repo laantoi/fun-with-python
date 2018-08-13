@@ -13,3 +13,7 @@ A collection of short projects in Python that were made for fun.
     (3) CLT.ipynb
 
    This notebook demonstrates the Central Limit Theorem using random samples from a uniform distribution.
+
+    (4) coin_games.ipynb
+
+   In this notebook we play a set of coin tossing games using coins obeying classical and quantum mechanics. 
